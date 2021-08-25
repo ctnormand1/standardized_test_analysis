@@ -23,8 +23,8 @@ This project analyzes California's 25 largest school districts in terms of enrol
 
 From the starting list of 25 school districts, this project identifies districts with above-average representation of students from URM groups, and below-average participation in standardized tests. The results are shown in the plots and table below. Points in quadrant four are highlighted. These points represent school districts that meet the above criteria and should be considered for research by the California DOE.
 
-![SAT Participation](figures/sat_participation.png)
-![ACT Participation](figures/act_participation.png)
+![SAT & ACT Participation](figures/sat_act_participation.png)
+
 
 
 | District                    |   Count Schools |   Count Students |   Count Students (Grade 12) |   SAT Participation |   ACT Participation |   Percent URM | Below Average Participation   |
