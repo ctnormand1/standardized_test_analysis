@@ -1,0 +1,509 @@
+district_id,district_name,count_schools,count_students,count_students_12,sat_participation,act_participation,pct_urm
+0161176,Fremont Unified,42,35176,2537,0.33,0.2,0.16
+0161275,Piedmont City Unified,6,2596,231,0.34,0.5,0.1
+0161291,San Leandro Unified,12,8926,754,0.26,0.1,0.61
+1062166,Fresno Unified,105,70749,4593,0.23,0.12,0.78
+1075127,Mendota Unified,7,3543,234,0.29,0.35,0.97
+1363107,Calipatria Unified,4,1136,91,0.3,0.21,0.9
+1563859,Wasco Union High,2,1867,453,0.41,0.16,0.96
+1964584,Gorman Joint,2,82,113,0.22,0.09,0.38
+1964774,Lynwood Unified,19,13802,1072,0.27,0.15,0.99
+1965128,Whittier Union High,7,11404,3048,0.4,0.13,0.9
+1973452,Rowland Unified,21,13249,1186,0.33,0.1,0.67
+2165482,Tamalpais Union High,5,5043,1233,0.35,0.33,0.15
+2365581,Mendocino Unified,6,536,52,0.33,0.15,0.15
+3610363,San Bernardino County Office of Education,6,2033,673,0.11,0.02,0.74
+3667652,Chaffey Joint Union High,11,23883,6046,0.4,0.13,0.72
+3675077,Apple Valley Unified,14,13196,1086,0.29,0.08,0.58
+3768031,Coronado Unified,4,3057,294,0.52,0.44,0.22
+3768130,Grossmont Union High,17,16760,5541,0.27,0.17,0.45
+3975499,Tracy Joint Unified,22,14621,1515,0.32,0.11,0.58
+4269112,Blochman Union Elementary,5,212,71,0.08,0.07,0.53
+4310439,Santa Clara County Office of Education,25,1384,915,0.14,0.11,0.52
+4373387,Milpitas Unified,14,10172,829,0.4,0.09,0.22
+4469823,Santa Cruz City High,9,4494,862,0.33,0.21,0.4
+5075572,Waterford Unified,6,1812,359,0.18,0.02,0.67
+5271639,Red Bluff Joint Union High,2,1643,372,0.12,0.41,0.35
+5575184,Big Oak Flat-Groveland Unified,3,304,32,0.44,0.0,0.21
+0161200,Livermore Valley Joint Unified,18,13738,1128,0.28,0.22,0.33
+0961838,Buckeye Union Elementary,12,4049,25,0.0,0.0,0.17
+0961853,El Dorado Union High,6,6629,1609,0.33,0.25,0.18
+1075275,Sierra Unified,5,1271,103,0.27,0.14,0.32
+1275515,Eureka City Schools,10,3643,347,0.17,0.07,0.32
+1363149,Holtville Unified,6,1578,151,0.34,0.19,0.88
+1510157,Kern County Office of Education,7,1386,582,0.19,0.22,0.77
+1764030,Lakeport Unified,6,1472,88,0.31,0.02,0.44
+1964683,Las Virgenes Unified,14,11138,986,0.34,0.33,0.15
+1964964,San Marino Unified,4,2967,275,0.44,0.35,0.07
+1973445,Hacienda la Puente Unified,36,18097,1459,0.76,0.08,0.8
+2075606,Chawanakee Unified,8,740,154,0.31,0.21,0.29
+2365615,Ukiah Unified,15,5981,525,0.17,0.04,0.6
+2365623,Willits Unified,9,1512,102,0.19,0.07,0.39
+2410249,Merced County Office of Education,8,1214,383,0.0,0.0,0.75
+2475366,Delhi Unified,5,2581,167,0.49,0.41,0.9
+2766092,Monterey Peninsula Unified,23,9636,854,0.63,0.11,0.64
+3375192,Temecula Valley Unified,29,27992,2453,0.41,0.26,0.38
+3375200,Murrieta Valley Unified,19,23251,2168,0.38,0.21,0.43
+3467314,Elk Grove Unified,68,62869,5228,0.36,0.18,0.39
+3667868,Rim of the World Unified,6,3236,239,0.23,0.11,0.39
+3667959,Yucaipa-Calimesa Joint Unified,14,8282,739,0.31,0.08,0.48
+3773551,Carlsbad Unified,16,11428,913,0.37,0.28,0.29
+4469765,Live Oak Elementary,7,1694,30,0.2,0.0,0.64
+4770516,Yreka Union High,3,629,150,0.27,0.25,0.2
+5010504,Stanislaus County Office of Education,8,953,883,0.01,0.0,0.67
+5171399,Live Oak Unified,6,1862,143,0.25,0.23,0.62
+5171415,Meridian Elementary,4,44,131,0.1,0.01,0.41
+5375028,Mountain Valley Unified,3,254,19,0.05,0.0,0.13
+5772694,Washington Unified,13,7658,563,0.32,0.1,0.51
+0161119,Alameda Unified,21,9383,919,0.41,0.17,0.22
+0973783,Black Oak Mine Unified,6,1057,92,0.13,0.07,0.14
+1010108,Fresno County Office of Education,9,926,359,0.03,0.02,0.82
+1062158,Fowler Unified,9,2608,211,0.36,0.05,0.81
+1075234,Golden Plains Unified,6,1649,125,0.22,0.15,0.98
+1075598,Caruthers Unified,3,1508,156,0.37,0.05,0.84
+1262687,Northern Humboldt Union High,6,1544,424,0.24,0.12,0.2
+1563677,Mojave Unified,6,2800,143,0.22,0.22,0.78
+1563685,Muroc Joint Unified,4,1793,123,0.26,0.07,0.38
+1864162,Ravendale-Termo Elementary,3,9,29,0.17,0.0,0.22
+1964592,Hawthorne,11,7530,112,0.57,1.0,0.93
+1964790,Monrovia Unified,10,5442,473,0.39,0.11,0.7
+1964808,Montebello Unified,29,25409,2333,0.28,0.12,0.96
+1964907,Pomona Unified,41,22473,1897,0.34,0.14,0.91
+2765987,Carmel Unified,7,2467,215,0.27,0.56,0.2
+2766159,Salinas Union High,11,15818,2683,0.27,0.19,0.9
+3010306,Orange County Department of Education,17,2852,708,0.12,0.05,0.68
+3073643,Tustin Unified,29,23768,1992,0.38,0.27,0.48
+3110314,Placer County Office of Education,6,176,109,0.03,0.02,0.34
+3175085,Rocklin Unified,22,12001,1171,0.36,0.27,0.18
+3366977,Alvord Unified,24,18504,1517,0.24,0.09,0.84
+3367124,Moreno Valley Unified,39,32736,2481,0.8,0.09,0.86
+3467330,Folsom-Cordova Unified,32,20487,1617,0.28,0.16,0.27
+3667777,Morongo Unified,16,8616,565,0.18,0.03,0.42
+3675051,Lucerne Valley Unified,9,741,506,0.05,0.0,0.51
+3767983,Borrego Springs Unified,4,386,309,0.1,0.0,0.86
+3968593,Manteca Unified,30,23496,1925,0.27,0.06,0.63
+4068759,Lucia Mar Unified,18,10363,865,0.23,0.22,0.47
+4168916,Jefferson Elementary,15,5986,94,0.11,0.04,0.39
+4169070,South San Francisco Unified,15,8485,682,0.35,0.06,0.5
+4369534,Los Gatos-Saratoga Joint Union High,2,3520,870,0.34,0.35,0.08
+4569856,Anderson Union High,6,1576,444,0.17,0.07,0.25
+4870573,Vacaville Unified,18,11433,975,0.36,0.1,0.44
+4970797,Liberty Elementary,3,51,70,0.01,0.06,0.18
+4970904,Roseland,4,1412,147,0.33,0.61,0.95
+4975358,Windsor Unified,10,3924,466,0.3,0.25,0.48
+5075564,Oakdale Joint Unified,9,5335,437,0.21,0.09,0.39
+5075739,Turlock Unified,16,14006,1240,0.32,0.08,0.61
+5110512,Sutter County Office of Education,3,368,75,0.0,0.0,0.47
+5376513,Trinity Alps Unified,3,744,93,0.11,0.16,0.15
+5510553,Tuolumne County Superintendent of Schools,4,94,34,0.0,0.0,0.21
+5710579,Yolo County Office of Education,5,254,87,0.0,0.0,0.61
+0161150,Castro Valley Unified,15,9269,737,0.42,0.14,0.29
+0661606,Maxwell Unified,3,340,29,0.34,0.0,0.58
+0710074,Contra Costa County Office of Education,13,364,771,0.38,0.2,0.58
+0761804,San Ramon Valley Unified,36,32138,2652,0.35,0.41,0.1
+1062414,Sanger Unified,20,10782,850,0.39,0.07,0.73
+1776976,Upper Lake Unified,5,855,83,0.14,0.22,0.41
+1964303,Bellflower Unified,15,11671,953,0.28,0.03,0.78
+1965094,West Covina Unified,17,8754,1194,0.3,0.04,0.79
+2165466,San Rafael City High,3,2640,634,0.39,0.22,0.57
+2365540,Anderson Valley Unified,3,490,55,0.45,0.04,0.77
+2773825,North Monterey County Unified,8,4595,369,0.3,0.11,0.87
+3066449,Brea-Olinda Unified,9,6008,506,0.41,0.24,0.38
+3066621,Orange Unified,40,25246,2261,0.83,0.11,0.59
+3073924,Los Alamitos Unified,9,9730,759,0.42,0.35,0.3
+3166944,Tahoe-Truckee Unified,12,3955,303,0.35,0.26,0.38
+3367082,Hemet Unified,28,21347,1858,0.64,0.08,0.7
+3473973,Center Joint Unified,7,4229,354,0.15,0.04,0.4
+3667611,Barstow Unified,12,6344,394,0.11,0.07,0.73
+3667934,Victor Valley Union High,10,10471,1911,0.26,0.1,0.85
+3673957,Snowline Joint Unified,12,7439,560,0.25,0.1,0.55
+3868478,San Francisco Unified,116,52468,4399,0.51,0.24,0.34
+4010405,San Luis Obispo County Office of Education,4,148,186,0.0,0.01,0.55
+4168940,La Honda-Pescadero Unified,3,316,21,0.38,0.1,0.62
+4369583,Morgan Hill Unified,14,8294,636,0.41,0.18,0.53
+4970961,Twin Hills Union Elementary,4,416,25,0.12,0.0,0.21
+5476794,Woodlake Unified,6,2118,168,0.13,0.18,0.92
+5672470,Mesa Union Elementary,2,615,18,0.0,0.06,0.7
+5673874,Oak Park Unified,7,4579,438,0.38,0.36,0.12
+5872728,Camptonville Elementary,2,48,42,0.14,0.1,0.1
+0761630,Acalanes Union High,5,5683,1408,0.34,0.38,0.12
+0761788,Pittsburg Unified,13,11345,840,0.33,0.18,0.81
+1073999,Kerman Unified,7,5215,416,0.25,0.09,0.86
+1262901,Klamath-Trinity Joint Unified,7,1019,71,0.13,0.0,0.87
+1476687,Bishop Unified,10,1978,158,0.34,0.17,0.53
+1964329,Bonita Unified,14,10055,865,0.37,0.18,0.56
+1964527,El Rancho Unified,14,8472,731,0.37,0.3,0.98
+1964865,Palos Verdes Peninsula Unified,16,11217,1118,0.39,0.38,0.16
+2465755,Los Banos Unified,15,11075,815,0.26,0.07,0.85
+2775473,Gonzales Unified,4,2369,191,0.28,0.33,0.98
+3166951,Western Placer Unified,13,7088,745,0.19,0.09,0.32
+3367090,Jurupa Unified,25,19344,1486,0.26,0.14,0.88
+3367207,Perris Union High,8,9844,2224,0.31,0.17,0.76
+3768049,Dehesa Elementary,10,138,469,0.06,0.04,0.39
+3768403,Spencer Valley Elementary,3,41,299,0.09,0.01,0.27
+3768452,Vista Unified,32,20756,2363,0.22,0.1,0.67
+3776471,SBC - High Tech High,7,2529,242,0.62,0.17,0.64
+3968577,Linden Unified,6,2318,177,0.19,0.19,0.64
+3968585,Lodi Unified,52,28581,2471,0.3,0.19,0.52
+3968650,Ripon Unified,8,3268,405,0.23,0.11,0.37
+4269146,Carpinteria Unified,8,2177,167,0.29,0.23,0.75
+4369401,Campbell Union High,6,8271,2023,0.33,0.2,0.37
+4369666,San Jose Unified,45,29762,2648,0.24,0.17,0.54
+5071043,Ceres Unified,24,13870,1073,0.33,0.03,0.81
+5472140,Stone Corral Elementary,2,130,35,0.11,0.0,0.92
+5476836,Exeter Unified,7,2730,225,0.22,0.08,0.64
+5572413,Summerville Union High,7,389,189,0.13,0.06,0.21
+5772686,Esparto Unified,4,941,46,0.35,0.0,0.8
+0461432,Durham Unified,3,1038,72,0.43,0.04,0.23
+0461531,Paradise Unified,13,3403,328,0.16,0.07,0.17
+0761739,Martinez Unified,8,4164,349,0.23,0.12,0.34
+0761754,Mt. Diablo Unified,52,30727,2145,0.29,0.15,0.46
+0961903,Lake Tahoe Unified,7,3872,275,0.2,0.2,0.44
+1062265,Kings Canyon Joint Unified,21,9614,619,0.27,0.27,0.89
+1073965,Central Unified,22,15881,1096,0.35,0.03,0.69
+1563529,Kern High,24,39884,10175,0.27,0.07,0.73
+1663982,Lemoore Union High,4,1928,527,0.25,0.16,0.69
+3073650,Irvine Unified,40,35291,2552,0.33,0.31,0.13
+3166894,Placer Union High,6,3911,1002,0.33,0.21,0.16
+3467355,Galt Joint Union High,3,2226,567,0.38,0.1,0.55
+3667637,Bear Valley Unified,7,2456,195,0.18,0.05,0.37
+3667686,Colton Joint Unified,27,22014,1621,0.25,0.08,0.91
+3710371,San Diego County Office of Education,15,1385,631,0.02,0.03,0.84
+3768106,Escondido Union High,8,7364,2532,0.31,0.2,0.78
+3768171,Julian Union High,1,106,20,0.4,0.05,0.38
+3768296,Poway Unified,38,36450,2918,0.38,0.32,0.17
+3968676,Stockton Unified,63,35255,2734,0.34,0.13,0.78
+4075457,Paso Robles Joint Unified,13,6844,578,0.23,0.15,0.56
+4210421,Santa Barbara County Office of Education,3,186,48,0.0,0.0,0.88
+4269260,Orcutt Union Elementary,9,4394,145,0.39,0.34,0.53
+4369427,East Side Union High,26,22606,6785,0.35,0.11,0.46
+4369609,Mountain View-Los Altos Union High,3,4394,1061,0.33,0.32,0.27
+4369674,Santa Clara Unified,27,15387,1136,0.25,0.17,0.38
+4970607,West Sonoma County Union High,5,1847,450,0.3,0.12,0.27
+4970706,Geyserville Unified,3,232,13,0.46,0.08,0.62
+4970870,Piner-Olivet Union Elementary,5,279,17,0.0,0.0,0.52
+4973882,Cotati-Rohnert Park Unified,13,5766,529,0.25,0.14,0.45
+5071068,Denair Unified,4,506,143,0.21,0.02,0.49
+5672546,Oxnard Union High,12,16701,4063,0.66,0.08,0.81
+5872736,Marysville Joint Unified,23,9573,602,0.2,0.07,0.5
+0161127,Albany City Unified,6,3682,307,0.37,0.19,0.19
+0475507,Gridley Unified,5,2083,175,0.37,0.09,0.6
+0810082,Del Norte County Office of Education,3,29,117,0.01,0.0,0.38
+0861820,Del Norte County Unified,12,3670,246,0.29,0.02,0.39
+1076778,Washington Unified,8,2626,339,0.24,0.36,0.84
+1210124,Humboldt County Office of Education,8,280,87,0.24,0.0,0.26
+1262810,Fortuna Union High,3,1107,274,0.28,0.09,0.28
+1363115,Central Union High,4,4150,958,0.29,0.18,0.95
+1463289,Lone Pine Unified,2,308,16,0.31,0.06,0.68
+1563412,Delano Joint Union High,4,4219,1004,0.32,0.19,0.88
+1864089,Big Valley Joint Unified,2,127,20,0.5,0.0,0.24
+1875036,Fort Sage Unified,4,151,30,0.0,0.0,0.2
+1910199,Los Angeles County Office of Education,38,2215,1236,0.3,0.2,0.72
+1964246,Antelope Valley Union High,14,21077,5657,0.2,0.06,0.81
+1964261,Arcadia Unified,11,9357,857,0.43,0.22,0.17
+1964840,Norwalk-La Mirada Unified,27,17387,1403,0.87,0.12,0.82
+1973437,Compton Unified,43,20933,1361,0.21,0.58,0.97
+2765979,Bradley Union Elementary,4,74,131,0.02,0.0,0.22
+3066597,Newport-Mesa Unified,31,20641,1817,0.23,0.35,0.46
+3066670,Santa Ana Unified,60,46597,4128,0.76,0.28,0.96
+3367173,Palm Springs Unified,27,21791,1777,0.26,0.13,0.84
+3467439,Sacramento City Unified,85,40660,3244,0.24,0.14,0.54
+3476505,Twin Rivers Unified,53,23457,2234,0.52,0.04,0.61
+3667850,Rialto Unified,29,25066,1973,0.24,0.1,0.94
+3773791,San Marcos Unified,20,21007,1534,0.35,0.28,0.49
+4075465,Coast Unified,4,561,45,0.27,0.13,0.72
+4773684,Butte Valley Unified,2,303,18,0.0,0.0,0.52
+4970722,Guerneville Elementary,3,25,59,0.02,0.0,0.4
+5171373,East Nicolaus Joint Union High,1,301,79,0.44,0.11,0.23
+5471803,Alpaugh Unified,4,323,80,0.23,0.01,0.92
+0161242,New Haven Unified,13,11281,1043,0.32,0.13,0.42
+0161259,Oakland Unified,123,36524,3663,0.33,0.22,0.67
+0461515,Oroville Union High,4,2196,521,0.13,0.06,0.34
+0910090,El Dorado County Office of Education,7,228,225,0.05,0.01,0.22
+1075408,Riverdale Joint Unified,4,1563,127,0.32,0.39,0.87
+1275374,Ferndale Unified,2,475,34,0.32,0.06,0.28
+1310132,Imperial County Office of Education,4,613,290,0.0,0.0,0.95
+1563826,Tehachapi Unified,6,4307,296,0.21,0.05,0.35
+1964287,Baldwin Park Unified,21,12541,1702,0.25,0.13,0.92
+1964519,El Monte Union High,7,8642,2308,0.31,0.13,0.78
+1964634,Inglewood Unified,25,7993,695,0.36,0.33,0.97
+1964873,Paramount Unified,19,14875,1281,0.78,0.05,0.96
+1964881,Pasadena Unified,33,16340,1544,0.37,0.11,0.72
+1965136,William S. Hart Union High,19,22416,4252,0.32,0.18,0.44
+2065243,Madera Unified,30,20011,1296,0.16,0.21,0.92
+2165417,Novato Unified,15,7419,667,0.39,0.3,0.41
+2465698,Hilmar Unified,6,2388,166,0.28,0.16,0.44
+2573593,Tulelake Basin Joint Unified,3,388,25,0.12,0.6,0.79
+2766134,Pacific Grove Unified,5,2035,151,0.42,0.21,0.23
+3066514,Fullerton Joint Union High,8,13695,3550,0.34,0.15,0.59
+3066522,Garden Grove Unified,63,42301,3627,0.43,0.17,0.54
+3166928,Roseville Joint Union High,7,10308,2555,0.37,0.24,0.23
+3310330,Riverside County Office of Education,15,1032,858,0.1,0.01,0.81
+3367215,Riverside Unified,50,40708,3434,0.38,0.17,0.71
+3375242,Val Verde Unified,22,20141,1641,0.8,0.02,0.9
+3667843,Redlands Unified,26,21012,1842,0.6,0.09,0.57
+3675044,Hesperia Unified,30,21806,1986,0.24,0.13,0.75
+3768023,Chula Vista Elementary,49,23080,228,0.49,0.09,0.71
+3768122,Fallbrook Union High,3,2154,557,0.2,0.08,0.7
+3768304,Ramona City Unified,11,5472,476,0.25,0.17,0.4
+3773569,Oceanside Unified,25,17648,1628,0.24,0.13,0.64
+4068833,Shandon Joint Unified,3,297,18,0.0,0.11,0.77
+4269328,Santa Ynez Valley Union High,2,926,231,0.3,0.22,0.46
+4510454,Shasta County Office of Education,5,59,58,0.0,0.0,0.19
+4776455,Scott Valley Unified,6,668,45,0.36,0.6,0.25
+5071217,Patterson Joint Unified,9,6077,458,0.47,0.03,0.8
+5171423,Nuestro Elementary,2,170,20,0.0,0.0,0.24
+5472256,Visalia Unified,39,27786,2216,0.21,0.08,0.71
+5475531,Dinuba Unified,10,6659,538,0.21,0.18,0.94
+0161192,Hayward Unified,36,19909,1601,0.34,0.16,0.74
+0161309,San Lorenzo Unified,18,10201,1099,0.33,0.17,0.66
+0175093,Dublin Unified,12,12090,695,0.39,0.31,0.14
+0661614,Pierce Joint Unified,5,1479,107,0.2,0.15,0.77
+0761721,Liberty Union High,5,8320,2138,0.3,0.13,0.44
+1062364,Parlier Unified,7,3471,232,0.22,0.14,0.99
+1263040,Southern Humboldt Joint Unified,8,760,51,0.25,0.18,0.2
+1410140,Inyo County Office of Education,4,9,361,0.06,0.0,1.0
+1575168,El Tejon Unified,3,748,61,0.21,0.0,0.43
+1663891,Corcoran Joint Unified,8,3318,187,0.26,0.21,0.94
+1663958,Kit Carson Union Elementary,3,380,75,0.03,0.0,0.64
+1864139,Lassen Union High,2,787,190,0.21,0.14,0.25
+1964535,El Segundo Unified,5,3453,319,0.45,0.34,0.25
+1964691,Lawndale Elementary,9,5291,126,0.75,0.76,0.85
+2110215,Marin County Office of Education,4,315,76,0.0,0.0,0.53
+2465789,Merced Union High,9,10523,2577,0.29,0.15,0.73
+2473619,Gustine Unified,5,1846,155,0.12,0.18,0.84
+2573585,Modoc Joint Unified,6,872,57,0.16,0.7,0.27
+3367033,Corona-Norco Unified,52,53002,4488,0.39,0.17,0.6
+3467447,San Juan Unified,74,39779,4487,0.21,0.1,0.32
+3667587,Adelanto Elementary,16,8234,142,0.01,0.01,0.85
+3768163,Julian Union Elementary,7,282,207,0.09,0.03,0.38
+3968502,Escalon Unified,8,2636,201,0.31,0.08,0.51
+3968627,New Jerusalem Elementary,12,22,523,0.14,0.02,0.41
+4269229,Lompoc Unified,17,9626,648,0.1,0.06,0.7
+4410447,Santa Cruz County Office of Education,5,813,594,0.1,0.08,0.52
+4870565,Travis Unified,10,5495,419,0.39,0.1,0.37
+5171449,Sutter Union High,2,775,189,0.26,0.12,0.28
+5271506,Corning Union High,3,1010,228,0.13,0.5,0.58
+5410546,Tulare County Office of Education,9,1242,465,0.07,0.03,0.8
+5572389,Sonora Union High,3,1051,263,0.16,0.04,0.21
+5672603,Simi Valley Unified,26,16451,1416,0.23,0.11,0.39
+5810587,Yuba County Office of Education,5,251,166,0.01,0.0,0.44
+0161168,Emery Unified,2,743,40,0.33,0.0,0.69
+0461440,Feather Falls Union Elementary,2,10,16,0.38,0.0,0.3
+0661622,Williams Unified,4,1335,87,0.33,0.06,0.95
+0761697,John Swett Unified,4,1439,123,0.31,0.11,0.52
+1176562,Hamilton Unified,3,714,90,0.28,0.33,0.91
+1363099,Calexico Unified,11,9246,879,0.22,0.1,1.0
+1764014,Kelseyville Unified,7,1705,129,0.35,0.14,0.46
+1964311,Beverly Hills Unified,6,3773,424,0.34,0.21,0.11
+1964337,Burbank Unified,20,15203,1331,0.39,0.13,0.37
+1964469,Duarte Unified,9,3550,405,0.31,0.15,0.78
+1964576,Glendora Unified,9,7198,639,0.39,0.12,0.46
+1964733,Los Angeles Unified,1008,453276,41873,0.48,0.22,0.86
+1975713,Alhambra Unified,18,16531,1902,0.43,0.13,0.42
+2075580,Golden Valley Unified,9,2007,172,0.27,0.1,0.46
+2365565,Fort Bragg Unified,8,1774,119,0.26,0.2,0.46
+2775440,Soledad Unified,8,4905,403,0.35,0.17,0.95
+3066548,Huntington Beach Union High,8,15967,4150,0.32,0.14,0.29
+3166845,Loomis Union Elementary,8,2475,46,0.39,0.26,0.13
+3366985,Banning Unified,8,4617,358,0.21,0.14,0.8
+3367058,Desert Sands Unified,33,26356,2493,0.3,0.09,0.78
+3410348,Sacramento County Office of Education,8,886,343,0.0,0.0,0.63
+3667710,Fontana Unified,44,36335,2941,0.34,0.87,0.93
+4168999,Ravenswood City Elementary,9,2391,20,0.0,1.0,0.86
+4469807,San Lorenzo Valley Unified,6,2328,244,0.2,0.1,0.13
+4575267,Gateway Unified,9,2293,168,0.14,0.02,0.24
+4870524,Benicia Unified,8,4662,406,0.33,0.17,0.28
+4870540,Fairfield-Suisun Unified,28,21405,1560,0.25,0.06,0.58
+5071175,Modesto City High,9,15122,3858,0.28,0.13,0.61
+5171407,Marcum-Illinois Union Elementary,2,177,140,0.09,0.04,0.27
+5271571,Los Molinos Unified,3,555,37,0.38,1.0,0.53
+5475325,Farmersville Unified,6,2559,216,0.29,0.21,0.95
+5672520,Ojai Unified,8,2383,192,0.26,0.08,0.39
+5673940,Moorpark Unified,11,6177,505,0.25,0.22,0.5
+0161234,Newark Unified,12,5758,460,0.31,0.07,0.57
+0175101,Pleasanton Unified,15,14978,1251,0.35,0.38,0.11
+1062281,Laton Joint Unified,3,677,47,0.19,0.17,0.84
+1062331,Orange Center,3,311,50,0.02,0.02,0.76
+1062547,Westside Elementary,3,188,96,0.11,0.03,1.0
+1563628,Maricopa Unified,8,302,358,0.04,0.0,0.4
+1663875,Armona Union Elementary,4,965,73,0.07,0.01,0.87
+1764055,Middletown Unified,8,1479,154,0.26,0.07,0.26
+1964279,Azusa Unified,18,8010,668,0.28,0.07,0.94
+1964378,Charter Oak Unified,10,4581,404,0.41,0.09,0.73
+1964568,Glendale Unified,32,25789,1978,0.32,0.11,0.22
+1975341,Redondo Beach Unified,13,10041,757,0.25,0.35,0.28
+2173361,Shoreline Unified,5,508,37,0.73,0.11,0.6
+2365599,Point Arena Joint Union High,2,133,36,0.31,0.08,0.62
+2365607,Round Valley Unified,4,409,26,0.15,0.0,0.85
+2866290,Saint Helena Unified,4,1267,121,0.39,0.23,0.5
+3066647,Placentia-Yorba Linda Unified,34,25477,2162,0.34,0.2,0.45
+3073635,Saddleback Valley Unified,34,26747,2410,0.29,0.2,0.37
+3367157,Nuview Union ,4,1553,157,0.79,1.0,0.81
+3367181,Palo Verde Unified,6,2953,246,0.15,0.03,0.78
+3673890,Silver Valley Unified,8,2167,105,0.24,0.02,0.44
+3768189,Lakeside Union Elementary,12,5074,71,0.35,0.23,0.38
+3775614,Valley Center-Pauma Unified,8,4029,314,0.35,0.16,0.65
+3776851,Bonsall Unified,5,2416,67,0.57,0.07,0.4
+3968569,Lincoln Unified,12,8932,721,0.29,0.08,0.61
+3976760,Lammersville Joint Unified,7,5348,283,0.47,0.18,0.26
+4168924,Jefferson Union High,6,4295,1179,0.77,0.11,0.31
+4169062,Sequoia Union High,8,9021,2532,0.35,0.25,0.44
+4275010,Cuyama Joint Unified,5,200,218,0.04,0.0,0.79
+4369641,Palo Alto Unified,19,11992,1020,0.36,0.45,0.15
+4975390,Healdsburg Unified,5,1170,158,0.3,0.23,0.67
+5075549,Hughson Unified,6,2058,168,0.24,0.07,0.56
+5171456,Winship-Robbins,3,118,78,0.12,0.12,0.8
+5171464,Yuba City Unified,19,12428,972,0.21,0.12,0.48
+5471837,Burton Elementary,6,2716,81,0.41,0.06,0.74
+5772710,Woodland Joint Unified,19,9782,767,0.29,0.18,0.71
+0161143,Berkeley Unified,17,9811,820,0.39,0.28,0.36
+0410041,Butte County Office of Education,7,139,207,0.11,0.05,0.41
+0761796,West Contra Costa Unified,63,28121,2520,0.7,0.19,0.68
+1062117,Clovis Unified,48,42866,3305,0.37,0.14,0.42
+1073809,Firebaugh-Las Deltas Unified,6,2240,170,0.49,0.18,0.96
+1363214,San Pasqual Valley Unified,5,689,49,0.39,0.12,0.94
+1573908,McFarland Unified,7,3484,209,0.32,0.08,0.98
+1663925,Hanford Joint Union High,7,3898,897,0.22,0.05,0.71
+1964436,Covina-Valley Unified,16,11713,1066,0.94,0.07,0.81
+1976869,Wiseburn Unified,9,2525,428,0.33,0.28,0.7
+2010207,Madera County Superintendent of Schools,4,354,252,0.0,0.0,0.77
+2265532,Mariposa County Unified,12,1701,149,0.24,0.11,0.25
+2373916,Laytonville Unified,3,360,27,0.26,0.04,0.3
+2465730,Le Grand Union High,2,511,102,0.45,0.32,0.92
+2475317,Dos Palos Oro Loma Joint Unified,6,2427,194,0.22,0.01,0.85
+2610264,Mono County Office of Education,3,15,291,0.0,0.0,0.8
+2966357,Nevada Joint Union High,7,2596,700,0.25,0.09,0.14
+3066431,Anaheim Union High,20,30292,5479,0.27,0.08,0.71
+3266969,Plumas Unified,10,1854,161,0.21,0.06,0.22
+3375176,Lake Elsinore Unified,24,21265,1608,0.31,0.11,0.65
+3567538,San Benito High,2,3108,807,0.25,0.15,0.74
+3667736,Helendale Elementary,7,624,199,0.14,0.03,0.5
+3667827,Oro Grande,10,99,647,0.07,0.03,0.92
+3667876,San Bernardino City Unified,87,48936,3558,0.26,0.13,0.89
+3768338,San Diego Unified,222,103194,9418,0.36,0.21,0.52
+3768346,San Dieguito Union High,10,13128,2334,0.3,0.53,0.15
+3775416,Warner Unified,5,194,129,0.09,0.01,0.68
+4068809,San Luis Coastal Unified,17,7653,591,0.31,0.29,0.3
+4168890,Cabrillo Unified,7,3152,251,0.31,0.26,0.52
+4369484,Gilroy Unified,16,11118,972,0.34,0.15,0.72
+4569989,Fall River Joint Unified,9,1200,86,0.15,0.24,0.34
+4570110,Redding Elementary,10,2942,19,0.32,0.16,0.24
+4870532,Dixon Unified,8,3211,310,0.3,0.22,0.62
+4910496,Sonoma County Office of Education,3,547,185,0.0,0.0,0.56
+5073601,Newman-Crows Landing Unified,9,3225,227,0.29,0.08,0.78
+5210520,Tehama County Department of Education,4,59,47,0.02,0.0,0.29
+5310538,Trinity County Office of Education,2,7,36,0.0,0.0,0.14
+5471860,Cutler-Orosi Joint Unified,8,4151,292,0.42,0.29,0.95
+5472249,Tulare Joint Union High,7,5407,1284,0.31,0.14,0.79
+5772702,Winters Joint Unified,4,1541,119,0.26,0.05,0.68
+0561556,Bret Harte Union High,3,652,170,0.27,0.07,0.22
+0761663,Byron Union Elementary,4,1475,104,0.05,0.05,0.32
+1162661,Willows Unified,4,1465,123,0.22,0.04,0.53
+1363164,Imperial Unified,4,4270,279,0.28,0.23,0.85
+1764022,Konocti Unified,10,3575,211,0.2,0.08,0.52
+1964352,Centinela Valley Union High,7,6370,1875,0.31,0.1,0.91
+1964725,Long Beach Unified,85,72935,5929,0.62,0.1,0.7
+1975291,San Gabriel Unified,9,4990,619,0.39,0.12,0.39
+2866241,Calistoga Joint Unified,3,865,49,0.33,0.27,0.85
+3367249,San Jacinto Unified,14,10132,859,0.29,0.04,0.83
+3467413,River Delta Joint Unified,12,1948,173,0.36,0.16,0.58
+3467421,Robla Elementary,7,2047,24,0.04,0.04,0.6
+3575259,Aromas - San Juan Unified,3,1087,75,0.28,0.07,0.65
+3667678,Chino Valley Unified,35,27590,2434,0.73,0.1,0.6
+3675069,Upland Unified,14,10702,867,0.34,0.07,0.64
+4570136,Shasta Union High,8,4428,1308,0.2,0.09,0.19
+4670177,Sierra-Plumas Joint Unified,5,407,23,0.22,0.13,0.17
+4770466,Siskiyou Union High,4,569,150,0.26,0.19,0.26
+4810488,Solano County Office of Education,3,397,181,0.0,0.0,0.52
+4870581,Vallejo City Unified,27,12023,994,0.28,0.07,0.71
+5672652,Ventura Unified,27,16353,1301,0.27,0.16,0.54
+5673759,Conejo Valley Unified,26,18408,1767,0.35,0.24,0.3
+5676828,Santa Paula Unified,9,5270,429,0.22,0.29,0.96
+5872769,Wheatland Union High,1,784,167,0.31,0.11,0.33
+0110017,Alameda County Office of Education,12,179,170,0.39,0.0,0.89
+1062430,Selma Unified,12,6393,499,0.28,0.02,0.91
+1573742,Sierra Sands Unified,10,5118,353,0.24,0.04,0.35
+1964295,Bassett Unified,7,3520,285,0.32,0.07,0.94
+1964709,Lennox,11,5327,296,0.79,0.78,0.95
+1975333,Manhattan Beach Unified,7,6583,610,0.34,0.44,0.14
+2065201,Chowchilla Union High,2,1113,276,0.31,0.07,0.65
+2710272,Monterey County Office of Education,7,476,214,0.02,0.01,0.88
+2910298,Nevada County Office of Education,11,63,1163,0.01,0.01,0.18
+3475283,Natomas Unified,20,10298,1130,0.47,0.68,0.54
+3667801,Needles Unified,6,993,69,0.25,0.09,0.47
+4068700,Atascadero Unified,12,4738,355,0.13,0.1,0.3
+4068841,Templeton Unified,7,2394,203,0.27,0.34,0.23
+4269310,Santa Maria Joint Union High,4,8166,1949,0.21,0.12,0.87
+4276786,Santa Barbara Unified,22,13475,1669,0.32,0.24,0.62
+4970656,Cloverdale Unified,4,1375,85,0.25,0.06,0.59
+4970730,Harmony Union Elementary,3,58,64,0.05,0.02,0.14
+4970953,Sonoma Valley Unified,11,3873,293,0.31,0.16,0.61
+5471993,Lindsay Unified,10,4085,293,0.34,0.03,0.94
+5610561,Ventura County Office of Education,10,672,323,0.03,0.01,0.64
+0310033,Amador County Office of Education,3,152,15,0.0,0.0,0.31
+0461408,Biggs Unified,3,624,57,0.14,0.09,0.4
+0461424,Chico Unified,30,12242,1175,0.25,0.12,0.3
+0510058,Calaveras County Office of Education,4,54,65,0.11,0.0,0.43
+0561564,Calaveras Unified,10,2814,216,0.17,0.09,0.23
+0661598,Colusa Unified,5,1490,109,0.13,0.05,0.76
+0761648,Antioch Unified,28,16362,1543,0.19,0.08,0.71
+1062257,Kingsburg Joint Union High,3,1167,276,0.29,0.15,0.62
+1062380,Raisin City Elementary,5,286,39,0.0,0.0,0.79
+1062539,West Park Elementary,2,366,69,0.0,0.0,0.81
+1110116,Glenn County Office of Education,4,74,91,0.02,0.0,0.5
+1162646,Princeton Joint Unified,2,140,15,0.2,0.0,0.64
+1175481,Orland Joint Unified,6,2263,177,0.18,0.21,0.65
+1263032,South Bay Union Elementary,4,405,51,0.14,0.0,0.3
+1363081,Brawley Union High,3,1943,471,0.28,0.24,0.94
+1563818,Taft Union High,2,1016,238,0.19,0.15,0.53
+1610165,Kings County Office of Education,2,357,80,0.0,0.0,0.74
+1673932,Reef-Sunset Unified,8,2677,165,0.38,0.68,0.97
+1964212,ABC Unified,30,20465,1663,0.38,0.13,0.55
+1964444,Culver City Unified,9,7144,556,0.4,0.27,0.5
+1964857,Palmdale Elementary,30,19085,402,0.28,0.08,0.92
+1964980,Santa Monica-Malibu Unified,16,10625,899,0.4,0.31,0.35
+2310231,Mendocino County Office of Education,3,74,21,0.0,0.0,0.64
+2373866,Potter Valley Community Unified,3,264,15,0.4,0.0,0.42
+2673692,Mammoth Unified,4,1209,107,0.24,0.18,0.59
+2766068,South Monterey County Joint Union High,4,2344,557,0.32,0.16,0.94
+2810280,Napa County Office of Education,2,103,34,0.0,0.0,0.8
+2866266,Napa Valley Unified,30,16526,1513,0.33,0.11,0.58
+3066464,Capistrano Unified,63,47205,4805,0.28,0.3,0.28
+3066555,Laguna Beach Unified,4,2861,295,0.19,0.56,0.13
+3366993,Beaumont Unified,13,10426,735,0.79,0.07,0.62
+3667892,Trona Joint Unified,4,290,325,0.03,0.0,0.38
+3768213,Mountain Empire Unified,16,1699,342,0.11,0.06,0.62
+3768411,Sweetwater Union High,30,39165,7934,0.33,0.12,0.76
+3810389,San Francisco County Office of Education,4,295,48,0.0,0.02,0.62
+4110413,San Mateo County Office of Education,7,223,97,0.0,0.0,0.61
+4169047,San Mateo Union High,8,9020,2359,0.41,0.22,0.33
+4369468,Fremont Union High,6,11022,2761,0.32,0.32,0.15
+4710470,Siskiyou County Office of Education,4,105,84,0.12,0.01,0.28
+4770250,Dunsmuir Joint Union High,1,61,15,0.2,0.0,0.21
+5475523,Porterville Unified,23,13222,1665,0.23,0.17,0.85
+5672454,Fillmore Unified,8,3785,298,0.39,0.1,0.92
+0373981,Amador County Unified,12,3962,290,0.18,0.13,0.24
+1062125,Coalinga-Huron Unified,10,4466,288,0.2,0.02,0.86
+1563776,Southern Kern Unified,6,3557,234,0.17,0.03,0.66
+1964394,Claremont Unified,12,6945,616,0.43,0.23,0.47
+1964451,Downey Unified,21,22064,2147,0.34,0.06,0.92
+1964659,La Canada Unified,4,4135,347,0.49,0.4,0.13
+1965029,South Pasadena Unified,5,4770,370,0.49,0.25,0.25
+1965052,Temple City Unified,8,5636,518,0.45,0.17,0.22
+1965060,Torrance Unified,31,23394,2115,0.38,0.21,0.35
+1973460,Walnut Valley Unified,15,13879,1424,0.57,0.22,0.25
+1975309,Acton-Agua Dulce Unified,18,1085,1268,0.09,0.01,0.44
+2076414,Yosemite Unified,9,1573,202,0.28,0.18,0.24
+2673668,Eastern Sierra Unified,6,403,22,0.5,0.05,0.47
+3367116,Menifee Union Elementary,15,10393,113,0.46,0.16,0.53
+3373676,Coachella Valley Unified,22,17787,1244,0.28,0.16,0.98
+3910397,San Joaquin County Office of Education,7,1932,823,0.09,0.03,0.67
+4469799,Pajaro Valley Unified,33,17968,1315,0.28,0.2,0.81
+4475432,Scotts Valley Unified,4,2421,194,0.46,0.31,0.15
+4570169,Whitmore Union Elementary,4,40,78,0.05,0.03,0.08
+4970839,Oak Grove Union Elementary,4,83,70,0.03,0.01,0.17
+5071092,Hart-Ransom Union Elementary,2,813,18,0.0,0.33,0.51
+5071134,Keyes Union,3,762,25,0.0,0.08,0.81
+5075556,Riverbank Unified,6,2451,179,0.22,0.01,0.81
+5772678,Davis Joint Unified,16,7999,717,0.43,0.22,0.25
